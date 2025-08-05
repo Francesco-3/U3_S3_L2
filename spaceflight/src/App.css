@@ -1,3 +1,7 @@
+:root{
+  background-color: black;
+}
+
 .read-more:hover {
   color: #ac9a52;
   text-decoration: underline;
